@@ -1,6 +1,4 @@
 def myfunc():
     return 1
 
-myfunc()
-
-var=
+print(myfunc())
