@@ -1,1 +1,2 @@
-# PytestCloud9# hello
+# PytestCloud9
+[![CircleCI](https://circleci.com/gh/ajhayden/PytestCloud9.svg?style=svg)](https://circleci.com/gh/ajhayden/PytestCloud9)
