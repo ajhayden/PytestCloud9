@@ -3,7 +3,7 @@ jobs:
   build:
     docker:
       - image: circleci/python:3.6.1
-    working_directory: ~/repo
+    working_directory: ~/PytestCloud9
     steps:
       - checkout
       - restore_cache:
